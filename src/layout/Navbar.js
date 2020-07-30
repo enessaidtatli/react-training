@@ -9,7 +9,7 @@ function Navbar({ title }) {
 
             <ul className="navbar-nav ml-auto">
                 <li className="nav-item active">
-                    <Link to="/" className="nav-link">Home</Link>
+                    <Link to="/" className="nav-link">Ana Sayfa</Link>
                 </li>
                 <li className="nav-item active">
                     <Link to="/add" className="nav-link">Add User</Link>
